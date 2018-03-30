@@ -19,7 +19,9 @@
 
 ## Install
 cd snipper
+
 pip install -r requirements.txt
+
 python snipper.py
 
 #### Contribute
